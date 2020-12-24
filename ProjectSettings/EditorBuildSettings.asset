@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Castle.unity
+    guid: 26d8776da517c4e938b3ad2bcd4dad09
+  - enabled: 1
+    path: Assets/Scenes/Fps.unity
+    guid: ffff1904968f14b4a8b9f2472bf566ad
+  - enabled: 1
+    path: Assets/Scenes/Google_VR.unity
+    guid: a74d9811ee36c9e4cbb3c1f324eadd50
   m_configObjects: {}
